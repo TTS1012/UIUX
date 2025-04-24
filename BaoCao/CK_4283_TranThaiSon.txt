@@ -1,0 +1,5 @@
+Link báo cáo thuyết trình:
+https://teams.microsoft.com/l/meetingrecap?driveId=b%21n4VCg0L0ikmquTuK11HGAoSyB3bUq29GlvAaYXMrokEthvuC92ZJS6iFxVvFs66p&driveItemId=01I3T76UTKFHLIUEB7AJGJT5AV6ZKGXA27&sitePath=https%3A%2F%2Fufmedu.sharepoint.com%2Fsites%2Fvoice%2FShared%2520Documents%2FGeneral%2FRecordings%2FMeeting%2520in%2520_General_-20250415_215758-Meeting%2520Recording.mp4%3Fweb%3D1&fileUrl=https%3A%2F%2Fufmedu.sharepoint.com%2Fsites%2Fvoice%2FShared%2520Documents%2FGeneral%2FRecordings%2FMeeting%2520in%2520_General_-20250415_215758-Meeting%2520Recording.mp4%3Fweb%3D1&threadId=19%3AsMHNRBV6gYwpAQqq92MXM6Orp_kleTx0CrtqN2Xxct81%40thread.tacv2&organizerId=8%3Aorgid%3A557e78e7-05f3-4db8-931f-4f3679ace94f&tenantId=887b9be1-67f4-49cb-ace0-422ef9bcce2a&callId=63139876-3b05-4421-a1f2-c640f63e3247&meetingType=MeetNow&organizerGroupId=cb0db60d-e9a4-4572-9042-d06825e68185&channelType=Standard&replyChainId=1744728884020&subType=RecapSharingLink_RecapCore
+
+Link dự án figma:
+https://www.figma.com/design/gvlIfJW478jZvaCyoTAuZk/UIUX_WebsiteDatLichKhamBenh?node-id=11-55&t=R3HR9xTuS4uDX9UB-1
